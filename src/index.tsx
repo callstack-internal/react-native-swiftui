@@ -11,9 +11,15 @@ const LINKING_ERROR =
   '- You rebuilt the app after installing the package\n' +
   '- You are not using Expo Go\n';
 
+type ChartData = {
+  category: string;
+  value: number;
+};
+
 type SwiftChartsProps = {
-  color: string;
   style: ViewStyle;
+  data: ChartData[];
+  color: string;
 };
 
 const ComponentName = 'SwiftChartsView';

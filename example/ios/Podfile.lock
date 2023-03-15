@@ -620,10 +620,10 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 7bf0dafc7b727d93c8cb94eb00a9d3753c446c3e
   ReactCommon: 6f65ea5b7d84deb9e386f670dd11ce499ded7b40
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
-  swift-charts: 6fb5041b918f27fba6c9ff00d98726f7f61114b4
+  swift-charts: f8671b2606b84b48efca8353f7ae820d66ca51ca
   Yoga: 5ed1699acbba8863755998a4245daa200ff3817b
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: cc1956d4cff78cb74c88de6506f4e3a8cffbe0f9
+PODFILE CHECKSUM: cb078afa94dab6402005c40de584eb4a047198ca
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.0
